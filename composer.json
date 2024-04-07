@@ -1,0 +1,11 @@
+{
+    "name": "fadil/prakp3l",
+    "autoload": {
+        "psr-4": {
+            "Fadil\\Prakp3l\\": "src/"
+        }
+    },
+ "require": {
+    "phpoffice/phpword": "^0.17.0"
+}
+}

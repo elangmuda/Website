@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.form-group input {
+    width: 100%;
+    padding: 5px;
+}
+
+.form-group .error {
+    color: red;
+    font-size: 12px;
+}
+
+.form-group .success {
+    color: green;
+    font-size: 12px;
+}
+
+.form-group .message {
+    margin-top: 10px;
+}
+
+.form-group .message a {
+    text-decoration: none;
+}
+
+.form-group .message a:hover {
+    text-decoration: underline;
+}
